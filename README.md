@@ -2,5 +2,8 @@
 
 Edmunds Car Review forums:- 
 
-Scrapped arround 1000 pages of reviews from Edmunds entry level luxury sedan cars forum. 
-Objective:- To find the real competition between 
+Objective:- To find the real competition between the brands in the eyes of customers.
+
+Scrapped arround 1000 pages of reviews from Edmunds entry level luxury sedan cars forum.
+
+Steps followed by cleaning the text and calculating the TF-IDF score 
