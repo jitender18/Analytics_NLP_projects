@@ -7,6 +7,7 @@ Objective:- To find the real competition between the brands in the eyes of custo
 Scrapped arround 1000 pages of reviews from Edmunds entry level luxury sedan cars forum.
 
 Steps followed by cleaning the text and calculating the TF-IDF score and cosine similarity between sentences.
+And, then plot a MDS plot to visualize the final standings, it will show you very nicely where every company stands in comparisons with other companies for that particular class segment.
 
 
 
