@@ -24,4 +24,4 @@ Steps:-
 5. Finally combined all the scores and calculated overall sentiment
 6. Used basic statistical techniques to find which candidate has an upper hand in winning the elections poll
 
-NOTE:- Twitter sentiment analysis can give you a good insight of candidates' standings in the state, but do keep in mind that not many people are on twitter and also your samples are somewhat biased. It will be a better idea to do analysis across multiple social media platforms to comeup with a strong evidence for your prediction.
+NOTE: - Twitter sentiment analysis can give you a good insight of candidates' standings in the state, but do keep in mind that not many people are on twitter and also your samples are somewhat biased. It will be a better idea to do analysis across multiple social media platforms to comeup with a strong evidence for your prediction.
